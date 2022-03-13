@@ -12,7 +12,7 @@ function App() {
         <form>
           <label>
           Name:
-          <input type="text" name="name" class="input-text-app"/>
+          <input type="text" name="name" />
           </label>
           <input type="submit" value="Submit" />
         </form>
